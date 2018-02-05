@@ -1,6 +1,6 @@
 1. `bundle install`.
 2. puts `private.key` into tmp.
-3. puts `bundle exec ruby url_sign.rb [key_pair_id] [url] [second]`.
+3. exec `bundle exec ruby url_sign.rb [key_pair_id] [url] [second]`.
 
 Operation confirmation with the following ruby version.
 ```
